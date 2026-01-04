@@ -43,7 +43,7 @@ Criar um programa que classifique heróis e heroínas com base em sua quantidade
     python main.py
 
 
-## 📌 Exemplo de Saída
+## 📌 Exemplo de Saída do Terminal
 
     ```bash
     O herói de nome Batman possui 950 de XP e está classificado como nível Ferro.
